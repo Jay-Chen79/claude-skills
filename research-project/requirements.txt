@@ -1,0 +1,16 @@
+# Research Project Generator Skill - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data manipulation and analysis
+pandas>=2.0.0           # Data manipulation and Excel export
+numpy>=1.24.0           # Statistical distributions and random generation
+
+# Visualization
+matplotlib>=3.7.0       # Publication-quality plotting
+seaborn>=0.12.0         # Enhanced plotting with colorblind palettes
+
+# Excel file handling
+openpyxl>=3.1.0         # Excel file writing with formatting
+
+# Statistical functions
+scipy>=1.10.0           # Statistical tests and distributions
