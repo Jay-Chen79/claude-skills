@@ -20,6 +20,8 @@ Phase 1: Research Design → Phase 2: Data Generation/Collection → Phase 3: An
 
 ## Phase 1: Research Design
 
+> **起点提示**：若从模糊的临床观察或研究兴趣出发，先调用 `research-brainstorm` skill 完成头脑风暴与新颖性评估，再携带研究方向文档返回此处。
+
 ### 1.1 Methodology Selection
 
 Ask the user's **core research question**, then match methodology:
